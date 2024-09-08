@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Weather Forecast/Pods-Weather Forecast-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/DeviceKit/DeviceKit.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
